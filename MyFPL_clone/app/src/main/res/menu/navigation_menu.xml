@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Trang chủ" />
+
+    <item
+        android:id="@+id/navigation_gifts"
+        android:icon="@drawable/baseline_layers_24"
+        android:title="Lịch học" />
+
+    <item
+        android:id="@+id/navigation_cart"
+        android:icon="@drawable/baseline_table_chart_24"
+        android:title="Bảng điểm" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="Tiện ích" />
+
+</menu>
